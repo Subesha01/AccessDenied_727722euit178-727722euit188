@@ -1,0 +1,20 @@
+html{
+    background-color: pink;
+}body{
+    background-color: blue;
+    width: 800px;
+    height: 800px;
+    margin:30px auto;
+}
+.row{
+    width: 800px;
+    height: 100px;
+}
+.box{
+    float: left;
+  width: 100px;
+  height: 100px;
+}
+.black{
+    background-color: red;
+}
